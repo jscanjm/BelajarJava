@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T02:24:49.062Z" agent="5.0 (Windows)" etag="nVPKM6XwvlX_3j20vJN3" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T03:58:52.979Z" agent="5.0 (Windows)" etag="EKGydWjfwLvKJbGRfolz" version="13.7.9" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1021" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1c1d494c118603dd-1" value="Purchase of shoes" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;fontColor=#FFFFFF;fontStyle=0;fillColor=#000033;" parent="1" vertex="1">
+        <mxCell id="1c1d494c118603dd-1" value="&lt;b&gt;Login G-mail&lt;/b&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;fontColor=#FFFFFF;fontStyle=0;fillColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="40" width="750" height="830" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-2" value="User" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1c1d494c118603dd-1" vertex="1">
@@ -31,6 +31,9 @@
         <mxCell id="TD3ZWKv99m2VLJ3ASuZv-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Enter the application&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="63.75" y="120" width="122.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7m2bySIna4ng54NkpnEc-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Enter the application&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="63.75" y="220" width="122.5" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="Sistem" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="250" y="20" width="250" height="810" as="geometry" />
         </mxCell>
@@ -44,6 +47,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="320" as="sourcePoint" />
             <mxPoint x="310" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7m2bySIna4ng54NkpnEc-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="7m2bySIna4ng54NkpnEc-8" target="7m2bySIna4ng54NkpnEc-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236.25" y="175" as="sourcePoint" />
+            <mxPoint x="375" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="375" y="265" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
